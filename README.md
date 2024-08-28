@@ -11,6 +11,6 @@ Projects involving front-end development, particularly with React, Vue, or Angul
 Open-source initiatives where I can contribute to meaningful and innovative projects.  
 📫 How to Reach Me  
 Email: [hsadiaansari@gmail.com]  
-LinkedIn: Your LinkedIn Profile (insert your LinkedIn profile link here)  
+LinkedIn:[https://www.linkedin.com/in/halima-sadia-ansari-618200323] 
 😄 Pronouns : She/Her  
 ⚡ Fun Fact  I love solving coding challenges for fun!  
