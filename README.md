@@ -196,21 +196,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=halimaansari&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats-fast.vercel.app/api?username=halimaansari&show_icons=true&hide_border=true"
     alt="Halima's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=halimaansari&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=halimaansari&hide_border=true"
     alt="Halima's GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimaansari&layout=compact&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=halimaansari&layout=compact&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
